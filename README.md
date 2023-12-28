@@ -1,4 +1,4 @@
-#GigaDAO-Developer Repositories
+# GigaDAO-Developer Repositories
 
 Categorised based on the below:<br>
 `DD` - Deprecated Deployment<br>
