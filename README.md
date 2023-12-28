@@ -1,14 +1,14 @@
 # .github
 
-Categorised based on the below:
-`DD - Deprecated Deployment`
-DEX - GigaDEX
-DAO - DAO Dashboard
-MM - Market Makers
-MS - MirrorScan
-ERG - Enterprise Raid Game
-GR - GigaRank
-  FE - Frontend
-  BE - BackEnd
-  SC - Smart Contract
-  SCR - Script
+Categorised based on the below:<br>
+`DD - Deprecated Deployment`<br>
+`DEX - GigaDEX`<br>
+`DAO - DAO Dashboard`<br>
+`MM - Market Makers`<br>
+`MS - MirrorScan`<br>
+`ERG - Enterprise Raid Game`<br>
+`GR - GigaRank`<br>
+  `FE - Frontend`<br>
+  `BE - BackEnd`<br>
+  `SC - Smart Contract`<br>
+  `SCR - Script`<br>
