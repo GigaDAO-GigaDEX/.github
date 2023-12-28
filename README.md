@@ -1,7 +1,7 @@
 # .github
 
 Categorised based on the below:
-DD - Deprecated Deployment
+`DD - Deprecated Deployment`
 DEX - GigaDEX
 DAO - DAO Dashboard
 MM - Market Makers
